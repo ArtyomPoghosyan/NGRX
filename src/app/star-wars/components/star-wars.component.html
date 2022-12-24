@@ -1,0 +1,6 @@
+<button (click)="getStarWars()">GetStarWars</button>
+
+<div *ngIf="IsLoading$ | async" >isLoading...</div>
+ <div *ngFor=" let starWars of (StarWarsList$ | async)">
+    {{starWars.title}}
+</div>

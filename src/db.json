@@ -1,0 +1,16 @@
+{
+    "customers": [
+        {
+            "name": "Tyom",
+            "phone:": "123456",
+            "address": "mkrtchyn srt.",
+            "id":1
+        },
+        {
+            "name": "Gven",
+            "phone:": "00000",
+            "address": "adonc str..",
+            "id":2
+        }
+    ]
+}
